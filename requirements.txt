@@ -1,0 +1,21 @@
+# List of dependencies
+# Web Scraping
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# PDF Processing
+pypdf==3.10.0
+
+# NLP & LLM
+openai==1.3.7
+langchain==0.1.8
+
+# Data Handling
+pandas==2.2.0
+PyYAML==6.0.1
+
+# Exception Handling & Logging
+loguru==0.7.2
+
+# Other Utilities
+tqdm==4.66.1

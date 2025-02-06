@@ -1,0 +1,19 @@
+# Ignore Python cache & environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Ignore logs and artifacts
+logs/
+artifacts/
+
+# Ignore model checkpoints (if any)
+*.ckpt
+*.h5
+*.pt
+
+# Ignore API keys or sensitive config files
+config/params.yml
