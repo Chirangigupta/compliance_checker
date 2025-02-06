@@ -19,3 +19,4 @@ loguru==0.7.2
 
 # Other Utilities
 tqdm==4.66.1
+#-e .
